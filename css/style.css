@@ -43,7 +43,7 @@ body
       text-align: center;
      }
      .col-logo img{
-         max-width: 500px;
+         max-width: 300px;
      }
      .col-logo h2{
          font: 26px;
@@ -178,9 +178,9 @@ body
             justify-content: start;
         }
         .col-logo {
-            padding: 30%;
+            padding: 15%;
             flex: 0 0 50%;
-            text-align:  top left;
+            text-align:  left;
         }
         .col-form {
             flex: 0 0 40%;
