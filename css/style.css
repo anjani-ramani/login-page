@@ -207,7 +207,7 @@ body
             max-width: 1000px;
         }
         .col-logo {
-            padding: 0;
+            padding: 15;
             flex: 0 0 50%;
             text-align: left;
         }
