@@ -180,7 +180,7 @@ body
         .col-logo {
             padding: 30%;
             flex: 0 0 50%;
-            text-align: left;
+            text-align:  top left;
         }
         .col-form {
             flex: 0 0 40%;
