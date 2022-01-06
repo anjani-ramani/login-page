@@ -34,8 +34,9 @@ body
      }  
      .col-logo
      {
-         flex: 0 0 50%;
-         text-align: left;
+      position:fixed;
+         top:0;
+         left:0;
      } 
      .col-form
      {
